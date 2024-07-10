@@ -16,3 +16,4 @@ structlog==16.1.0
 urllib3==1.21.1
 websockets==6.0
 yarl==1.2.6
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
